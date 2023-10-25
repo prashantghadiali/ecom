@@ -1,0 +1,78 @@
+{
+    "products": [
+      {
+        "id": 1,
+        "name": "Smartphone X",
+        "price": 599.99,
+        "image": "https://example.com/product1.jpg"
+      },
+      {
+        "id": 2,
+        "name": "Laptop Pro",
+        "price": 999.99,
+        "image": "https://example.com/product2.jpg"
+      },
+      {
+        "id": 3,
+        "name": "Wireless Headphones",
+        "price": 79.99,
+        "image": "https://example.com/product3.jpg"
+      },
+      {
+        "id": 4,
+        "name": "Smart Watch S",
+        "price": 149.99,
+        "image": "https://example.com/product4.jpg"
+      },
+      {
+        "id": 5,
+        "name": "Portable Speaker",
+        "price": 49.99,
+        "image": "https://example.com/product5.jpg"
+      },
+      {
+        "id": 6,
+        "name": "Camera Kit",
+        "price": 799.99,
+        "image": "https://example.com/product6.jpg"
+      },
+      {
+        "id": 7,
+        "name": "Fitness Tracker",
+        "price": 69.99,
+        "image": "https://example.com/product7.jpg"
+      },
+      {
+        "id": 8,
+        "name": "Gaming Console",
+        "price": 349.99,
+        "image": "https://example.com/product8.jpg"
+      },
+      {
+        "id": 9,
+        "name": "Tablet Lite",
+        "price": 299.99,
+        "image": "https://example.com/product9.jpg"
+      },
+      {
+        "id": 10,
+        "name": "4K TV",
+        "price": 899.99,
+        "image": "https://example.com/product10.jpg"
+      }
+    ],
+    "users": [
+      {
+        "id": 1,
+        "username": "user1",
+        "email": "user1@example.com"
+      },
+      {
+        "id": 2,
+        "username": "user2",
+        "email": "user2@example.com"
+      }
+    ]
+  }
+  
+  
