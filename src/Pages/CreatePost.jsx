@@ -23,7 +23,8 @@ function CreatePost() {
       title,
       body,
       rating,
-      price
+      price,
+      quantity: 0
     };
     dispatch(addPost(newPost));
     navigate('/');
