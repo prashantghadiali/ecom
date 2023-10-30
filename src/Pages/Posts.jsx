@@ -94,7 +94,7 @@ const Posts = () => {
   return (
     <div>
       <Container>
-        <h2 className="mt-4 mb-3">Posts</h2>
+        <h2 className="mt-4 mb-3">Products</h2>
         <FilterButton />
         <br />
         <Row>
