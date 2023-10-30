@@ -83,7 +83,7 @@ const Posts = () => {
       } else {
         return (
           productPrice >= parseFloat(minPrice) &&
-          productPrice < parseFloat(maxPrice)
+          productPrice <= parseFloat(maxPrice)
         );
       }
     }
