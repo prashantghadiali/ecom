@@ -21,7 +21,7 @@ const FilterButton = () => {
       <Dropdown.Menu>
         <Dropdown.Item eventKey="All">All</Dropdown.Item>
         <Dropdown.Item eventKey="0-500">₹0 - ₹500</Dropdown.Item>
-        <Dropdown.Item eventKey="500-1000">₹500 - ₹1000</Dropdown.Item>
+        <Dropdown.Item eventKey="500-5000">₹500 - ₹5000</Dropdown.Item>
       </Dropdown.Menu>
     </Dropdown>
   );
