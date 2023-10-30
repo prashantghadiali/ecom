@@ -60,6 +60,8 @@ const Posts = () => {
 
 
   const handleDelete = (id) => {
+    // delete post with redux action using specific ID
+    dispatch(deletePost(id));
     // Implement delete functionality with help of redux
      toast.error('Post deleted successfully!');
   };
@@ -78,7 +80,7 @@ const Posts = () => {
       );
 
       // Check if the product price falls within the selected range
-      if (maxPrice == '1000') {
+      if (maxPrice === '1000') {
         return productPrice >= parseFloat(minPrice);
       } else {
         return (
