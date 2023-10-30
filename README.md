@@ -1,10 +1,14 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project is build with react bootstrap
 
-## Available Scripts
+## Created demo JSON Server for sufficient data
 
-In the project directory, you can run:
+https://my-json-server.typicode.com/prashantghadiali/demoJSONServer/posts
+
+credit : my-json-server.typicode.com
+
+my server git link : https://github.com/prashantghadiali/demoJSONServer
 
 ### `npm start`
 
